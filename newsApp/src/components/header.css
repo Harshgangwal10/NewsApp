@@ -1,0 +1,29 @@
+.con{
+ font-weight: bold;
+ color:rgb(55, 105, 198);
+ font-size: 30px;
+}
+
+/* .firstdiv{
+  background-color:rgb(11, 16, 16);
+  max-width: 100%;
+ 
+} */
+.just{
+  color: rgb(1, 1, 7);
+  font-size: medium;
+  font-weight: 700;
+}
+.item{
+ display: flex;
+ justify-content: space-evenly;
+
+}
+.contents:hover{
+  cursor: pointer;
+  
+}
+.head{
+  background-color: rgb(239, 241, 244);
+}
+
